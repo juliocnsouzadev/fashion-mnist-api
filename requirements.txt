@@ -1,0 +1,2 @@
+scipy>=5.2.2
+tensorflow>=2.0.0
